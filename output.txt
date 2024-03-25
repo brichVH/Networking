@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Speed Networking</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1>H&R Block Party Speed Networking Event</h1>
-    <script src="app.js"></script>
-</body>
-
-<div class="navbar">
-    <a href="index.html">Registration Page</a>
-    <a href="rotation1.html">Rotation 1</a>
-    <a href="rotation2.html">Rotation 2</a>
-    <a href="rotation3.html">Rotation 3</a>
-    <a href="rotation4.html">Rotation 4</a>
-    <a href="rotation5.html">Rotation 5</a>
-    <a href="rotation6.html">Rotation 6</a>
-    <a href="rotation7.html">Rotation 7</a>
-    <a href="rotation8.html">Rotation 8</a>
-    <a href="rotation9.html">Rotation 9</a>
-    <a href="rotation10.html">Rotation 10</a>
-</div>
-
-<div>&nbsp;</div>
-
-<div id="output"></div>
-
-<div style="margin-left: auto;">
-    <header>Table1</header>
+<header>Table1</header>
 
     <table>
         <thead>
@@ -141,7 +109,3 @@
 
     <div>&nbsp;</div>
     
-</div>
-
-</html>
-
