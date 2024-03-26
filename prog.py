@@ -47,13 +47,20 @@ def createHtml(pairings):
             <table>
                 <thead>
                 <tr>
-                    <th>Name</th>
+                    <th>Group 1</th>
                 </tr>
                 <tr>
                     <td>##PARTICIPANT1##</td>
                 </tr>
                 <tr>
                     <td>##PARTICIPANT2##</td>
+                </tr>
+            </table>
+
+            <table>
+                <thead>
+                <tr>
+                    <th>Group 2</th>
                 </tr>
                 <tr>
                     <td>##PARTICIPANT3##</td>
