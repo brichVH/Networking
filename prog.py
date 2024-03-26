@@ -79,12 +79,12 @@ def createHtml(pairings):
             if(i == (len(pairings)-1)):
                 output = output.replace("##PARTICIPANT3##", "")
                 output = output.replace("##PARTICIPANT4##", "")
+            output = output.replace("#TABLE#", str(table_count))
             table_count += 1
         elif(i%2==1):
             output = output.replace("##PARTICIPANT3##", pairings[i][0])
             output = output.replace("##PARTICIPANT4##", pairings[i][1])
 
-        output = output.replace("#TABLE#", str(table_count))
         i+=1
     return output
 
