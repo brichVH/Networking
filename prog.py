@@ -47,7 +47,7 @@ def createHtml(pairings):
             <table>
                 <thead>
                 <tr>
-                    <th>Group 1</th>
+                    <th> Table #TABLE# - Group 1</th>
                 </tr>
                 <tr>
                     <td>##PARTICIPANT1##</td>
@@ -62,7 +62,7 @@ def createHtml(pairings):
             <table>
                 <thead>
                 <tr>
-                    <th>Group 2</th>
+                    <th>Table #TABLE# - Group 2</th>
                 </tr>
                 <tr>
                     <td>##PARTICIPANT3##</td>
@@ -85,6 +85,7 @@ def createHtml(pairings):
             output = output.replace("##PARTICIPANT3##", pairings[i][0])
             output = output.replace("##PARTICIPANT4##", pairings[i][1])
 
+        output = output.replace("#TABLE#", str(table_count))
         i+=1
     return output
 
