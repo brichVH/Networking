@@ -6,16 +6,16 @@
                     <th>Name</th>
                 </tr>
                 <tr>
-                    <td>Teiaira White</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Alfred Tuwei</td>
+                    <td>Billy Mitchell</td>
                 </tr>
                 <tr>
                     <td>Chapin Walton</td>
+                </tr>
+                <tr>
+                    <td>Matt Gaebler</td>
+                </tr>
+                <tr>
+                    <td>Spencer Boland</td>
                 </tr>
             </table>
 
@@ -31,13 +31,13 @@
                     <td>List Groener</td>
                 </tr>
                 <tr>
-                    <td>Alec Taylor</td>
+                    <td>Kristy Maldonado</td>
                 </tr>
                 <tr>
-                    <td>Spencer Boland</td>
+                    <td>Jack Kallenberger</td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>Demetrius Smiley</td>
                 </tr>
             </table>
 
@@ -50,16 +50,16 @@
                     <th>Name</th>
                 </tr>
                 <tr>
-                    <td>Billy Mitchell</td>
+                    <td>Brooke Lawver</td>
                 </tr>
                 <tr>
-                    <td>Eric Scali</td>
+                    <td>Alfred Tuwei</td>
                 </tr>
                 <tr>
-                    <td>Mallory Norris</td>
+                    <td>Vidya Elizabeth Jose</td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>Ashley Block</td>
                 </tr>
             </table>
 
@@ -72,16 +72,16 @@
                     <th>Name</th>
                 </tr>
                 <tr>
-                    <td>Kristy Maldonado</td>
+                    <td>Mallory Norris</td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>Jordan Eskijian</td>
                 </tr>
                 <tr>
-                    <td>Lucia Roith</td>
+                    <td>Alec Taylor</td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>Eric Scali</td>
                 </tr>
             </table>
 
@@ -94,16 +94,16 @@
                     <th>Name</th>
                 </tr>
                 <tr>
+                    <td>Teiaira White</td>
+                </tr>
+                <tr>
+                    <td>Jana Meyers</td>
+                </tr>
+                <tr>
                     <td>Scarlett Davis</td>
                 </tr>
                 <tr>
-                    <td></td>
-                </tr>
-                <tr>
                     <td>Chris Arnold</td>
-                </tr>
-                <tr>
-                    <td></td>
                 </tr>
             </table>
 
@@ -116,98 +116,10 @@
                     <th>Name</th>
                 </tr>
                 <tr>
-                    <td>Brooke Lawver</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Jordan Eskijian</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-            </table>
-
-            <div>&nbsp;</div>
-            <header>Table 7</header>
-
-            <table>
-                <thead>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr>
-                    <td>Matt Gaebler</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Jana Meyers</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-            </table>
-
-            <div>&nbsp;</div>
-            <header>Table 8</header>
-
-            <table>
-                <thead>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr>
-                    <td>Vidya Elizabeth Jose</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Ashley Block</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-            </table>
-
-            <div>&nbsp;</div>
-            <header>Table 9</header>
-
-            <table>
-                <thead>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr>
-                    <td>Demetrius Smiley</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Jack Kallenberger</td>
-                </tr>
-                <tr>
-                    <td></td>
-                </tr>
-            </table>
-
-            <div>&nbsp;</div>
-            <header>Table 10</header>
-
-            <table>
-                <thead>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr>
                     <td>Teegan Swanson</td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>Lucia Roith</td>
                 </tr>
                 <tr>
                     <td></td>
