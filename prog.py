@@ -57,6 +57,8 @@ def createHtml(pairings):
                 </tr>
             </table>
 
+            <div>&nbsp;</div>
+
             <table>
                 <thead>
                 <tr>

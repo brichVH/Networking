@@ -6,12 +6,14 @@
                     <th>Group 1</th>
                 </tr>
                 <tr>
-                    <td>Vidya Elizabeth Jose</td>
+                    <td>Jordan Eskijian</td>
                 </tr>
                 <tr>
-                    <td>Ashley Block</td>
+                    <td>Eric Scali</td>
                 </tr>
             </table>
+
+            <div>&nbsp;</div>
 
             <table>
                 <thead>
@@ -19,10 +21,10 @@
                     <th>Group 2</th>
                 </tr>
                 <tr>
-                    <td>Scarlett Davis</td>
+                    <td>Kristy Maldonado</td>
                 </tr>
                 <tr>
-                    <td>Teegan Swanson</td>
+                    <td>Chapin Walton</td>
                 </tr>
             </table>
 
@@ -35,12 +37,14 @@
                     <th>Group 1</th>
                 </tr>
                 <tr>
-                    <td>Chapin Walton</td>
+                    <td>Teegan Swanson</td>
                 </tr>
                 <tr>
                     <td>Jack Kallenberger</td>
                 </tr>
             </table>
+
+            <div>&nbsp;</div>
 
             <table>
                 <thead>
@@ -48,10 +52,10 @@
                     <th>Group 2</th>
                 </tr>
                 <tr>
-                    <td>Jordan Eskijian</td>
+                    <td>Lucia Roith</td>
                 </tr>
                 <tr>
-                    <td>Matt Gaebler</td>
+                    <td>Billy Mitchell</td>
                 </tr>
             </table>
 
@@ -64,12 +68,14 @@
                     <th>Group 1</th>
                 </tr>
                 <tr>
-                    <td>Mallory Norris</td>
-                </tr>
-                <tr>
                     <td>List Groener</td>
                 </tr>
+                <tr>
+                    <td>Alec Taylor</td>
+                </tr>
             </table>
+
+            <div>&nbsp;</div>
 
             <table>
                 <thead>
@@ -77,10 +83,10 @@
                     <th>Group 2</th>
                 </tr>
                 <tr>
-                    <td>Lucia Roith</td>
+                    <td>Alfred Tuwei</td>
                 </tr>
                 <tr>
-                    <td>Kristy Maldonado</td>
+                    <td>Chris Arnold</td>
                 </tr>
             </table>
 
@@ -93,12 +99,14 @@
                     <th>Group 1</th>
                 </tr>
                 <tr>
-                    <td>Billy Mitchell</td>
+                    <td>Matt Gaebler</td>
                 </tr>
                 <tr>
-                    <td>Spencer Boland</td>
+                    <td>Demetrius Smiley</td>
                 </tr>
             </table>
+
+            <div>&nbsp;</div>
 
             <table>
                 <thead>
@@ -106,10 +114,10 @@
                     <th>Group 2</th>
                 </tr>
                 <tr>
-                    <td>Alfred Tuwei</td>
+                    <td>Brooke Lawver</td>
                 </tr>
                 <tr>
-                    <td>Alec Taylor</td>
+                    <td>Scarlett Davis</td>
                 </tr>
             </table>
 
@@ -122,12 +130,14 @@
                     <th>Group 1</th>
                 </tr>
                 <tr>
-                    <td>Jana Meyers</td>
+                    <td>Spencer Boland</td>
                 </tr>
                 <tr>
-                    <td>Teiaira White</td>
+                    <td>Jana Meyers</td>
                 </tr>
             </table>
+
+            <div>&nbsp;</div>
 
             <table>
                 <thead>
@@ -135,10 +145,10 @@
                     <th>Group 2</th>
                 </tr>
                 <tr>
-                    <td>Brooke Lawver</td>
+                    <td>Teiaira White</td>
                 </tr>
                 <tr>
-                    <td>Demetrius Smiley</td>
+                    <td>Mallory Norris</td>
                 </tr>
             </table>
 
@@ -151,12 +161,14 @@
                     <th>Group 1</th>
                 </tr>
                 <tr>
-                    <td>Eric Scali</td>
+                    <td>Ashley Block</td>
                 </tr>
                 <tr>
-                    <td>Chris Arnold</td>
+                    <td>Vidya Elizabeth Jose</td>
                 </tr>
             </table>
+
+            <div>&nbsp;</div>
 
             <table>
                 <thead>
