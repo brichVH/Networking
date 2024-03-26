@@ -41,7 +41,6 @@ def createHtml(pairings):
     i=0
     while(i<len(pairings)):
         if(i%2==0):
-            output += "<header>Table " + str(table_count) + "</header>"
             html_content = '''
 
             <table>

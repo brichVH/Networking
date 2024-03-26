@@ -1,4 +1,4 @@
-<header>Table 1</header>
+
 
             <table>
                 <thead>
@@ -6,10 +6,10 @@
                     <th> Table 2 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Spencer Boland</td>
+                    <td>List Groener</td>
                 </tr>
                 <tr>
-                    <td>Chris Arnold</td>
+                    <td>Teiaira White</td>
                 </tr>
             </table>
 
@@ -21,15 +21,15 @@
                     <th>Table 2 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Demetrius Smiley</td>
+                    <td>Jack Kallenberger</td>
                 </tr>
                 <tr>
-                    <td>Jordan Eskijian</td>
+                    <td>Mallory Norris</td>
                 </tr>
             </table>
 
             <div>&nbsp;</div>
-            <header>Table 2</header>
+            
 
             <table>
                 <thead>
@@ -37,10 +37,10 @@
                     <th> Table 3 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Teegan Swanson</td>
+                    <td>Alec Taylor</td>
                 </tr>
                 <tr>
-                    <td>Matt Gaebler</td>
+                    <td>Billy Mitchell</td>
                 </tr>
             </table>
 
@@ -52,15 +52,15 @@
                     <th>Table 3 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Vidya Elizabeth Jose</td>
+                    <td>Jordan Eskijian</td>
                 </tr>
                 <tr>
-                    <td>Alec Taylor</td>
+                    <td>Teegan Swanson</td>
                 </tr>
             </table>
 
             <div>&nbsp;</div>
-            <header>Table 3</header>
+            
 
             <table>
                 <thead>
@@ -68,7 +68,7 @@
                     <th> Table 4 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Scarlett Davis</td>
+                    <td>Eric Scali</td>
                 </tr>
                 <tr>
                     <td>Chapin Walton</td>
@@ -83,15 +83,15 @@
                     <th>Table 4 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Teiaira White</td>
+                    <td>Spencer Boland</td>
                 </tr>
                 <tr>
-                    <td>Billy Mitchell</td>
+                    <td>Jana Meyers</td>
                 </tr>
             </table>
 
             <div>&nbsp;</div>
-            <header>Table 4</header>
+            
 
             <table>
                 <thead>
@@ -99,10 +99,10 @@
                     <th> Table 5 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Kristy Maldonado</td>
+                    <td>Matt Gaebler</td>
                 </tr>
                 <tr>
-                    <td>Alfred Tuwei</td>
+                    <td>Ashley Block</td>
                 </tr>
             </table>
 
@@ -114,15 +114,15 @@
                     <th>Table 5 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Jana Meyers</td>
+                    <td>Kristy Maldonado</td>
                 </tr>
                 <tr>
-                    <td>Ashley Block</td>
+                    <td>Lucia Roith</td>
                 </tr>
             </table>
 
             <div>&nbsp;</div>
-            <header>Table 5</header>
+            
 
             <table>
                 <thead>
@@ -130,10 +130,10 @@
                     <th> Table 6 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Jack Kallenberger</td>
+                    <td>Brooke Lawver</td>
                 </tr>
                 <tr>
-                    <td>Mallory Norris</td>
+                    <td>Demetrius Smiley</td>
                 </tr>
             </table>
 
@@ -145,15 +145,15 @@
                     <th>Table 6 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Eric Scali</td>
+                    <td>Chris Arnold</td>
                 </tr>
                 <tr>
-                    <td>Lucia Roith</td>
+                    <td>Alfred Tuwei</td>
                 </tr>
             </table>
 
             <div>&nbsp;</div>
-            <header>Table 6</header>
+            
 
             <table>
                 <thead>
@@ -161,10 +161,10 @@
                     <th> Table 7 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Brooke Lawver</td>
+                    <td>Vidya Elizabeth Jose</td>
                 </tr>
                 <tr>
-                    <td>List Groener</td>
+                    <td>Scarlett Davis</td>
                 </tr>
             </table>
 
