@@ -7,6 +7,9 @@ def f(x):
     x["paired"] = False
     return x 
 
+def g(x):
+    x["visitedArr"] = []
+    return x 
 
 def createPairings(names):
     dict = [f(x) for x in names]
@@ -89,15 +92,46 @@ def createHtml(pairings):
     return output
 
 def removeIndex(objects, n):
-    del objects[n]
+
+    toRemove = objects[int(n)]
+
+    del objects[int(n)]
+
+    newData = json.dumps(objects, indent=4)
+
+    print(newData)
+
+    with open('participants.json', 'w') as file:
+        file.write(newData)
+    file.close
+
     return objects
+
+def resetVisitedArr(objects):
+    resetArr = [g(x) for x in objects]
+
+    newData = json.dumps(resetArr, indent=4)
+
+    with open('participants.json', 'w') as file:
+        file.write(newData)
+    file.close
+
+    return resetArr
+
 
 def writeFile(string):
     with open('output.txt', 'w') as file:
         file.write(output)
+    file.close
 
 def addPerson(names, name):
     names.append(name)
+
+    newData = json.dumps(names, indent=4)
+
+    with open('participants.json', 'w') as file:
+        file.write(newData)
+    file.close
 
 def shuffle(list):
     for i in range(0, len(list)):
@@ -108,24 +142,20 @@ def shuffle(list):
     return list     
 
 #------------------script---------------------#
-        
-x = [1,2,3,4,5]
-
-x = shuffle(x)
-
-for item in x:
-    print(item)
 
 with open("participants.json", "r") as file:
     data = json.load(file)
+file.close
 
 for item in data:
     item["visitedArr"] = []
     item["paired"] = False
 
+data = resetVisitedArr(data)
+
 breaker = ""
 while(breaker != "4"):
-    breaker = input("1) generate HTML\n2)Add Participant\n3)Remove Participant\n4)end\n>")
+    breaker = input("1) generate HTML\n2) Add Participant\n3) Remove Participant\n4) end\n>")
     match breaker:
         case "1":
             data = shuffle(data)
@@ -135,18 +165,23 @@ while(breaker != "4"):
             for item in data:
                 print(item)
             output = createHtml(pairings)
-            writeFile(output)
+            with open('output.txt', 'w') as file:
+                writeFile(output)
+            file.close
         case "2":
             newPerson = {}
             newPerson["name"] = input("First and last name: ")
             newPerson["department"] = input("department: ")
             newPerson["visitedArr"] = []
             newPerson["paired"] = False
-            data.append(newPerson)
+            addPerson(data, newPerson)
+
         case "3":
-            for idx, item in pairings:
-                print(idx, item[0], item[1])
-            index = input("which name should be removed")
+            count = 0
+            for item in data:
+                print(count, ": ", item["name"])
+                count+=1
+            index = input("which name should be removed: ")
             removeIndex(data, index)
         case "4":
             break

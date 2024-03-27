@@ -1,24 +1,176 @@
 [
-    {"name": "Matt Gaebler", "department": "CSO"},
-    {"name": "Chris Arnold", "department": "P&C"},
-    {"name": "Mallory Norris", "department": "P&C"},
-    {"name": "Jordan Eskijian", "department": "Finance"},
-    {"name": "Scarlett Davis", "department": "Retail Sales & Service"},
-    {"name": "Spencer Boland", "department": "Finance"},
-    {"name": "Demetrius Smiley", "department": "FTS"},
-    {"name": "Vidya Elizabeth Jose", "department": "IT"},
-    {"name": "List Groener", "department": "M&E"},
-    {"name": "Chapin Walton", "department": "Tax Training Support"},
-    {"name": "Teiaira White", "department": "FTS/KPM"},
-    {"name": "Alfred Tuwei", "department": "Client Services Learning & Development"},
-    {"name": "Eric Scali", "department": "Expat"},
-    {"name": "Jack Kallenberger", "department": "Finance"},
-    {"name": "Billy Mitchell", "department": "Legal/TTI"},
-    {"name": "Kristy Maldonado", "department": "DIY"},
-    {"name": "Teegan Swanson", "department": "IT"},
-    {"name": "Ashley Block", "department": "Emerald Financial Services"},
-    {"name": "Alec Taylor", "department": "People Resource Center"},
-    {"name": "Brooke Lawver", "department": "TA"},
-    {"name": "Lucia Roith", "department": "P&C"},
-    {"name": "Jana Meyers", "department": "P&C"}
+    {
+        "name": "Eric Scali",
+        "department": "Expat",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Alec Taylor",
+        "department": "People Resource Center",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Lucia Roith",
+        "department": "P&C",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Matt Gaebler",
+        "department": "CSO",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Spencer Boland",
+        "department": "Finance",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Brooke Lawver",
+        "department": "TA",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Teegan Swanson",
+        "department": "IT",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "List Groener",
+        "department": "M&E",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Scarlett Davis",
+        "department": "Retail Sales & Service",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Alfred Tuwei",
+        "department": "Client Services Learning & Development",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Teiaira White",
+        "department": "FTS/KPM",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Vidya Elizabeth Jose",
+        "department": "IT",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Chris Arnold",
+        "department": "P&C",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Jana Meyers",
+        "department": "P&C",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Mallory Norris",
+        "department": "P&C",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Kristy Maldonado",
+        "department": "DIY",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Jordan Eskijian",
+        "department": "Finance",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Chapin Walton",
+        "department": "Tax Training Support",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Demetrius Smiley",
+        "department": "FTS",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Billy Mitchell",
+        "department": "Legal/TTI",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Ashley Block",
+        "department": "Emerald Financial Services",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Matthew Gaebler",
+        "department": "CSO",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Jordyn Eskijian",
+        "department": "Finance",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Anu Devadasan",
+        "department": "IT",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Lisa Groener",
+        "department": "M&E",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Jack Kallenberger",
+        "department": "Finance",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Arjun Vijayan",
+        "department": "IT",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Kim Polangco",
+        "department": "DGMiT SAS",
+        "visitedArr": [],
+        "paired": false
+    },
+    {
+        "name": "Rene Aguirre",
+        "department": "DGM",
+        "visitedArr": [],
+        "paired": false
+    }
 ]
