@@ -1,11 +1,12 @@
 [
     {
-        "name": "Alec Taylor",
-        "department": "People Resource Center",
+        "name": "Scarlett Davis",
+        "department": "Retail Sales & Service",
         "visitedArr": [
-            "Lucia Roith",
-            "Renny Soto",
-            "Chris Arnold"
+            "Andrew Pierson",
+            "Lisa Groener",
+            "Arjun Vijayan",
+            "Justine Moreno"
         ],
         "paired": true
     },
@@ -15,67 +16,8 @@
         "visitedArr": [
             "Arjun Vijayan",
             "Andrew Pierson",
-            "Jana Meyers"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Anu Devadasan",
-        "department": "IT",
-        "visitedArr": [
-            "Spencer Boland",
-            "Alfred Tuwei",
-            "Lucia Roith"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Billy Mitchell",
-        "department": "Legal/TTI",
-        "visitedArr": [
-            "Matt Gaebler",
-            "Arjun Vijayan",
-            "Chapin Walton"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Lisa Groener",
-        "department": "M&E",
-        "visitedArr": [
             "Jana Meyers",
-            "Scarlett Davis",
-            "Renny Soto"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Matt Gaebler",
-        "department": "CSO",
-        "visitedArr": [
-            "Billy Mitchell",
-            "Jordyn Eskijian",
-            "Teiaira White"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Brooke Lawver",
-        "department": "TA",
-        "visitedArr": [
-            "Jordyn Eskijian",
-            "Sheila Al Shatti",
-            "Kristy Maldonado"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Kristy Maldonado",
-        "department": "DIY",
-        "visitedArr": [
-            "Teegan Swanson",
-            "Jana Meyers",
-            "Brooke Lawver"
+            "Chris Arnold"
         ],
         "paired": true
     },
@@ -85,27 +27,8 @@
         "visitedArr": [
             "Vidya Elizabeth Jose",
             "Teegan Swanson",
-            "Eric Scali"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Mallory Norris",
-        "department": "P&C",
-        "visitedArr": [
-            "Sheila Al Shatti",
-            "Rakesh Kodela",
-            "Jordyn Eskijian"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Jordyn Eskijian",
-        "department": "Finance",
-        "visitedArr": [
-            "Brooke Lawver",
-            "Matt Gaebler",
-            "Mallory Norris"
+            "Eric Scali",
+            "Rene Aguirre"
         ],
         "paired": true
     },
@@ -115,27 +38,41 @@
         "visitedArr": [
             "Mallory Norris",
             "Brooke Lawver",
-            "Justine Moreno"
+            "Justine Moreno",
+            "Lisa Groener"
         ],
         "paired": true
     },
     {
-        "name": "Teegan Swanson",
-        "department": "IT",
+        "name": "Brooke Lawver",
+        "department": "TA",
         "visitedArr": [
+            "Jordyn Eskijian",
+            "Sheila Al Shatti",
             "Kristy Maldonado",
-            "Demetrius Smiley",
-            "Alfred Tuwei"
+            "Billy Mitchell"
         ],
         "paired": true
     },
     {
-        "name": "Alfred Tuwei",
-        "department": "Client Services Learning & Development",
+        "name": "Kristy Maldonado",
+        "department": "DIY",
         "visitedArr": [
-            "Ashley Block",
-            "Anu Devadasan",
-            "Teegan Swanson"
+            "Teegan Swanson",
+            "Jana Meyers",
+            "Brooke Lawver",
+            "Valentyna"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Mallory Norris",
+        "department": "P&C",
+        "visitedArr": [
+            "Sheila Al Shatti",
+            "Rakesh Kodela",
+            "Jordyn Eskijian",
+            "Renny Soto"
         ],
         "paired": true
     },
@@ -145,27 +82,19 @@
         "visitedArr": [
             "Alfred Tuwei",
             "Spencer Boland",
-            "Rene Aguirre"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Rene Aguirre",
-        "department": "DGM",
-        "visitedArr": [
-            "Joseph Lawter",
-            "Vidya Elizabeth Jose",
-            "Ashley Block"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Vidya Elizabeth Jose",
-        "department": "IT",
-        "visitedArr": [
-            "Demetrius Smiley",
             "Rene Aguirre",
-            "Kim Polangco"
+            "Jordyn Eskijian"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Alfred Tuwei",
+        "department": "Client Services Learning & Development",
+        "visitedArr": [
+            "Ashley Block",
+            "Anu Devadasan",
+            "Teegan Swanson",
+            "Chapin Walton"
         ],
         "paired": true
     },
@@ -175,7 +104,8 @@
         "visitedArr": [
             "Teiaira White",
             "Kim Polangco",
-            "Jenny Lucas"
+            "Jenny Lucas",
+            "Eric Scali"
         ],
         "paired": true
     },
@@ -185,17 +115,60 @@
         "visitedArr": [
             "Justine Moreno",
             "Lucia Roith",
-            "Demetrius Smiley"
+            "Demetrius Smiley",
+            "Samuel Gonzalez"
         ],
         "paired": true
     },
     {
-        "name": "Jenny Lucas",
-        "department": "KPM",
+        "name": "Anu Devadasan",
+        "department": "IT",
         "visitedArr": [
-            "Kim Polangco",
-            "Joseph Lawter",
-            "Samuel Gonzalez"
+            "Spencer Boland",
+            "Alfred Tuwei",
+            "Lucia Roith",
+            "Jason"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Jason",
+        "department": "",
+        "visitedArr": [
+            "Anu Devadasan"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Teegan Swanson",
+        "department": "IT",
+        "visitedArr": [
+            "Kristy Maldonado",
+            "Demetrius Smiley",
+            "Alfred Tuwei",
+            "Matt Gaebler"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Billy Mitchell",
+        "department": "Legal/TTI",
+        "visitedArr": [
+            "Matt Gaebler",
+            "Arjun Vijayan",
+            "Chapin Walton",
+            "Brooke Lawver"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Lisa Groener",
+        "department": "M&E",
+        "visitedArr": [
+            "Jana Meyers",
+            "Scarlett Davis",
+            "Renny Soto",
+            "Sheila Al Shatti"
         ],
         "paired": true
     },
@@ -205,7 +178,166 @@
         "visitedArr": [
             "Samuel Gonzalez",
             "Chapin Walton",
-            "Matt Gaebler"
+            "Matt Gaebler",
+            "Vidya Elizabeth Jose"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Lucia Roith",
+        "department": "P&C",
+        "visitedArr": [
+            "Alec Taylor",
+            "Eric Scali",
+            "Anu Devadasan",
+            "Spencer Boland"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Rene Aguirre",
+        "department": "DGM",
+        "visitedArr": [
+            "Joseph Lawter",
+            "Vidya Elizabeth Jose",
+            "Ashley Block",
+            "Demetrius Smiley"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Chris Arnold",
+        "department": "P&C",
+        "visitedArr": [
+            "Chapin Walton",
+            "Justine Moreno",
+            "Alec Taylor",
+            "Jack Kallenberger"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Renny Soto",
+        "department": "IT",
+        "visitedArr": [
+            "Alec Taylor",
+            "Lisa Groener",
+            "Mallory Norris"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Jana Meyers",
+        "department": "P&C",
+        "visitedArr": [
+            "Lisa Groener",
+            "Kristy Maldonado",
+            "Jack Kallenberger",
+            "Rakesh Kodela"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Matt Gaebler",
+        "department": "CSO",
+        "visitedArr": [
+            "Billy Mitchell",
+            "Jordyn Eskijian",
+            "Teiaira White",
+            "Teegan Swanson"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Rakesh Kodela",
+        "department": "IT",
+        "visitedArr": [
+            "Mallory Norris",
+            "Jana Meyers"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Justine Moreno",
+        "department": "FTS",
+        "visitedArr": [
+            "Eric Scali",
+            "Chris Arnold",
+            "Sheila Al Shatti",
+            "Scarlett Davis"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Valentyna",
+        "department": "",
+        "visitedArr": [
+            "Kristy Maldonado"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Alec Taylor",
+        "department": "People Resource Center",
+        "visitedArr": [
+            "Lucia Roith",
+            "Renny Soto",
+            "Chris Arnold",
+            "Jenny Lucas"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Jenny Lucas",
+        "department": "KPM",
+        "visitedArr": [
+            "Kim Polangco",
+            "Joseph Lawter",
+            "Samuel Gonzalez",
+            "Alec Taylor"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Andrew Pierson",
+        "department": "IT",
+        "visitedArr": [
+            "Scarlett Davis",
+            "Jack Kallenberger",
+            "Kim Polangco"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Joseph Lawter",
+        "department": "IT",
+        "visitedArr": [
+            "Rene Aguirre",
+            "Jenny Lucas",
+            "Spencer Boland",
+            "Diana"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Spencer Boland",
+        "department": "Finance",
+        "visitedArr": [
+            "Anu Devadasan",
+            "Ashley Block",
+            "Joseph Lawter",
+            "Lucia Roith"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Kim Polangco",
+        "department": "DGMiT SAS",
+        "visitedArr": [
+            "Jenny Lucas",
+            "Samuel Gonzalez",
+            "Vidya Elizabeth Jose",
+            "Andrew Pierson"
         ],
         "paired": true
     },
@@ -220,31 +352,10 @@
         "paired": true
     },
     {
-        "name": "Scarlett Davis",
-        "department": "Retail Sales & Service",
+        "name": "Diana",
+        "department": "",
         "visitedArr": [
-            "Andrew Pierson",
-            "Lisa Groener",
-            "Arjun Vijayan"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Joseph Lawter",
-        "department": "IT",
-        "visitedArr": [
-            "Rene Aguirre",
-            "Jenny Lucas",
-            "Spencer Boland"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Andrew Pierson",
-        "department": "IT",
-        "visitedArr": [
-            "Scarlett Davis",
-            "Jack Kallenberger"
+            "Joseph Lawter"
         ],
         "paired": true
     },
@@ -254,84 +365,30 @@
         "visitedArr": [
             "Chris Arnold",
             "Teiaira White",
-            "Billy Mitchell"
+            "Billy Mitchell",
+            "Alfred Tuwei"
         ],
         "paired": true
     },
     {
-        "name": "Renny Soto",
+        "name": "Vidya Elizabeth Jose",
         "department": "IT",
         "visitedArr": [
-            "Alec Taylor",
-            "Lisa Groener"
+            "Demetrius Smiley",
+            "Rene Aguirre",
+            "Kim Polangco",
+            "Teiaira White"
         ],
         "paired": true
     },
     {
-        "name": "Rakesh Kodela",
-        "department": "IT",
-        "visitedArr": [
-            "Mallory Norris"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Lucia Roith",
-        "department": "P&C",
-        "visitedArr": [
-            "Alec Taylor",
-            "Eric Scali",
-            "Anu Devadasan"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Jana Meyers",
-        "department": "P&C",
-        "visitedArr": [
-            "Lisa Groener",
-            "Kristy Maldonado",
-            "Jack Kallenberger"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Kim Polangco",
-        "department": "DGMiT SAS",
-        "visitedArr": [
-            "Jenny Lucas",
-            "Samuel Gonzalez",
-            "Vidya Elizabeth Jose"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Justine Moreno",
-        "department": "FTS",
-        "visitedArr": [
-            "Eric Scali",
-            "Chris Arnold",
-            "Sheila Al Shatti"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Spencer Boland",
+        "name": "Jordyn Eskijian",
         "department": "Finance",
         "visitedArr": [
-            "Anu Devadasan",
-            "Ashley Block",
-            "Joseph Lawter"
-        ],
-        "paired": true
-    },
-    {
-        "name": "Chris Arnold",
-        "department": "P&C",
-        "visitedArr": [
-            "Chapin Walton",
-            "Justine Moreno",
-            "Alec Taylor"
+            "Brooke Lawver",
+            "Matt Gaebler",
+            "Mallory Norris",
+            "Ashley Block"
         ],
         "paired": true
     }
