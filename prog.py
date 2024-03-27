@@ -34,6 +34,12 @@ def createPairings(names):
                     rand += 1
                 else:
                     rand = 0
+    newData = json.dumps(names, indent=4)
+
+    with open('participants.json', 'w') as file:
+        file.write(newData)
+    file.close
+
     return pairings
 
 def createHtml(pairings):
@@ -156,32 +162,31 @@ data = resetVisitedArr(data)
 breaker = ""
 while(breaker != "4"):
     breaker = input("1) generate HTML\n2) Add Participant\n3) Remove Participant\n4) end\n>")
-    match breaker:
-        case "1":
-            data = shuffle(data)
-            pairings = createPairings(data)
-            for item in pairings:
-                print(item[0], item[1])
-            for item in data:
-                print(item)
-            output = createHtml(pairings)
-            with open('output.txt', 'w') as file:
-                writeFile(output)
-            file.close
-        case "2":
-            newPerson = {}
-            newPerson["name"] = input("First and last name: ")
-            newPerson["department"] = input("department: ")
-            newPerson["visitedArr"] = []
-            newPerson["paired"] = False
-            addPerson(data, newPerson)
+    if(breaker =="1"):
+        data = shuffle(data)
+        pairings = createPairings(data)
+        for item in pairings:
+            print(item[0], item[1])
+        for item in data:
+            print(item)
+        output = createHtml(pairings)
+        with open('output.txt', 'w') as file:
+            writeFile(output)
+        file.close
+    elif(breaker == "2"):
+        newPerson = {}
+        newPerson["name"] = input("First and last name: ")
+        newPerson["department"] = input("department: ")
+        newPerson["visitedArr"] = []
+        newPerson["paired"] = False
+        addPerson(data, newPerson)
 
-        case "3":
-            count = 0
-            for item in data:
-                print(count, ": ", item["name"])
-                count+=1
-            index = input("which name should be removed: ")
-            removeIndex(data, index)
-        case "4":
-            break
+    elif (breaker == "3"):
+        count = 0
+        for item in data:
+            print(count, ": ", item["name"])
+            count+=1
+        index = input("which name should be removed: ")
+        removeIndex(data, index)
+    elif (breaker =="4"):
+        break
