@@ -1,176 +1,293 @@
 [
     {
-        "name": "Rene Aguirre",
-        "department": "DGM",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Lisa Groener",
-        "department": "M&E",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Billy Mitchell",
-        "department": "Legal/TTI",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Matthew Gaebler",
-        "department": "CSO",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Demetrius Smiley",
-        "department": "FTS",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Kristy Maldonado",
-        "department": "DIY",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Jordan Eskijian",
-        "department": "Finance",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
         "name": "Jordyn Eskijian",
         "department": "Finance",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Scarlett Davis",
-        "department": "Retail Sales & Service",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Eric Scali",
-        "department": "Expat",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Alec Taylor",
-        "department": "People Resource Center",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Brooke Lawver",
-        "department": "TA",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Ashley Block",
-        "department": "Emerald Financial Services",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Chapin Walton",
-        "department": "Tax Training Support",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Kim Polangco",
-        "department": "DGMiT SAS",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Arjun Vijayan",
-        "department": "IT",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Vidya Elizabeth Jose",
-        "department": "IT",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Jack Kallenberger",
-        "department": "Finance",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Spencer Boland",
-        "department": "Finance",
-        "visitedArr": [],
-        "paired": false
-    },
-    {
-        "name": "Anu Devadasan",
-        "department": "IT",
-        "visitedArr": [],
-        "paired": false
+        "visitedArr": [
+            "Matthew Gaebler",
+            "Lisa Groener"
+        ],
+        "paired": true
     },
     {
         "name": "Matt Gaebler",
         "department": "CSO",
-        "visitedArr": [],
-        "paired": false
+        "visitedArr": [
+            "Ashley Block",
+            "Rene Aguirre"
+        ],
+        "paired": true
     },
     {
-        "name": "Lucia Roith",
-        "department": "P&C",
-        "visitedArr": [],
-        "paired": false
+        "name": "Blake1",
+        "department": "IT",
+        "visitedArr": [
+            "Jana Meyers"
+        ],
+        "paired": true
     },
     {
-        "name": "Jana Meyers",
-        "department": "P&C",
-        "visitedArr": [],
-        "paired": false
+        "name": "Jack Kallenberger",
+        "department": "Finance",
+        "visitedArr": [
+            "Mallory Norris",
+            "Alec Taylor"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Spencer Boland",
+        "department": "Finance",
+        "visitedArr": [
+            "Kim Polangco",
+            "Teiaira White"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Alec Taylor",
+        "department": "People Resource Center",
+        "visitedArr": [
+            "Eric Scali",
+            "Jack Kallenberger"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Chapin Walton",
+        "department": "Tax Training Support",
+        "visitedArr": [
+            "Arjun Vijayan",
+            "Demetrius Smiley"
+        ],
+        "paired": true
     },
     {
         "name": "Mallory Norris",
         "department": "P&C",
-        "visitedArr": [],
-        "paired": false
+        "visitedArr": [
+            "Jack Kallenberger",
+            "Kristy Maldonado"
+        ],
+        "paired": true
     },
     {
-        "name": "Chris Arnold",
+        "name": "Blake4",
+        "department": "IT",
+        "visitedArr": [
+            "Jordan Eskijian"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Brooke Lawver",
+        "department": "TA",
+        "visitedArr": [
+            "Kristy Maldonado",
+            "Lucia Roith"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Blake2",
+        "department": "IT",
+        "visitedArr": [
+            "Scarlett Davis"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Scarlett Davis",
+        "department": "Retail Sales & Service",
+        "visitedArr": [
+            "Demetrius Smiley",
+            "Blake2"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Lucia Roith",
         "department": "P&C",
-        "visitedArr": [],
-        "paired": false
+        "visitedArr": [
+            "Jordan Eskijian",
+            "Brooke Lawver"
+        ],
+        "paired": true
     },
     {
         "name": "Alfred Tuwei",
         "department": "Client Services Learning & Development",
-        "visitedArr": [],
-        "paired": false
+        "visitedArr": [
+            "Lisa Groener",
+            "Billy Mitchell"
+        ],
+        "paired": true
     },
     {
-        "name": "List Groener",
-        "department": "M&E",
-        "visitedArr": [],
-        "paired": false
+        "name": "Vidya Elizabeth Jose",
+        "department": "IT",
+        "visitedArr": [
+            "Jana Meyers",
+            "Ashley Block"
+        ],
+        "paired": true
     },
     {
-        "name": "Teiaira White",
-        "department": "FTS/KPM",
-        "visitedArr": [],
-        "paired": false
+        "name": "Jana Meyers",
+        "department": "P&C",
+        "visitedArr": [
+            "Vidya Elizabeth Jose",
+            "Blake1"
+        ],
+        "paired": true
     },
     {
         "name": "Teegan Swanson",
         "department": "IT",
-        "visitedArr": [],
-        "paired": false
+        "visitedArr": [
+            "Rene Aguirre",
+            "Kim Polangco"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Lisa Groener",
+        "department": "M&E",
+        "visitedArr": [
+            "Alfred Tuwei",
+            "Jordyn Eskijian"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Demetrius Smiley",
+        "department": "FTS",
+        "visitedArr": [
+            "Scarlett Davis",
+            "Chapin Walton"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Billy Mitchell",
+        "department": "Legal/TTI",
+        "visitedArr": [
+            "Chris Arnold",
+            "Alfred Tuwei"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Blake3",
+        "department": "IT",
+        "visitedArr": [
+            "Eric Scali"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Anu Devadasan",
+        "department": "IT",
+        "visitedArr": [
+            "Chris Arnold"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Ashley Block",
+        "department": "Emerald Financial Services",
+        "visitedArr": [
+            "Matt Gaebler",
+            "Vidya Elizabeth Jose"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Chris Arnold",
+        "department": "P&C",
+        "visitedArr": [
+            "Billy Mitchell",
+            "Anu Devadasan"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Teiaira White",
+        "department": "FTS/KPM",
+        "visitedArr": [
+            "List Groener",
+            "Spencer Boland"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Jordan Eskijian",
+        "department": "Finance",
+        "visitedArr": [
+            "Lucia Roith",
+            "Blake4"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Kristy Maldonado",
+        "department": "DIY",
+        "visitedArr": [
+            "Brooke Lawver",
+            "Mallory Norris"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Arjun Vijayan",
+        "department": "IT",
+        "visitedArr": [
+            "Chapin Walton",
+            "Matthew Gaebler"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Kim Polangco",
+        "department": "DGMiT SAS",
+        "visitedArr": [
+            "Spencer Boland",
+            "Teegan Swanson"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Eric Scali",
+        "department": "Expat",
+        "visitedArr": [
+            "Alec Taylor",
+            "Blake3"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Matthew Gaebler",
+        "department": "CSO",
+        "visitedArr": [
+            "Jordyn Eskijian",
+            "Arjun Vijayan"
+        ],
+        "paired": true
+    },
+    {
+        "name": "List Groener",
+        "department": "M&E",
+        "visitedArr": [
+            "Teiaira White"
+        ],
+        "paired": true
+    },
+    {
+        "name": "Rene Aguirre",
+        "department": "DGM",
+        "visitedArr": [
+            "Teegan Swanson",
+            "Matt Gaebler"
+        ],
+        "paired": true
     }
 ]
