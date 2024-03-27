@@ -157,7 +157,7 @@ for item in data:
     item["visitedArr"] = []
     item["paired"] = False
 
-data = resetVisitedArr(data)
+# data = resetVisitedArr(data)
 
 breaker = ""
 while(breaker != "4"):
