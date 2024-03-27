@@ -6,10 +6,10 @@
                     <th> Table 1 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Lucia Roith</td>
+                    <td>Scarlett Davis</td>
                 </tr>
                 <tr>
-                    <td>Alec Taylor</td>
+                    <td>Lisa Groener</td>
                 </tr>
             </table>
 
@@ -21,10 +21,10 @@
                     <th>Table 1 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Rene Aguirre</td>
+                    <td>Jordyn Eskijian</td>
                 </tr>
                 <tr>
-                    <td>Joseph Lawter</td>
+                    <td>Matt Gaebler</td>
                 </tr>
             </table>
 
@@ -37,10 +37,10 @@
                     <th> Table 2 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Teegan Swanson</td>
+                    <td>Joseph Lawter</td>
                 </tr>
                 <tr>
-                    <td>Kristy Maldonado</td>
+                    <td>Jenny Lucas</td>
                 </tr>
             </table>
 
@@ -52,10 +52,10 @@
                     <th>Table 2 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Mallory Norris</td>
+                    <td>Vidya Elizabeth Jose</td>
                 </tr>
                 <tr>
-                    <td>Sheila Al Shatti</td>
+                    <td>Rene Aguirre</td>
                 </tr>
             </table>
 
@@ -68,10 +68,10 @@
                     <th> Table 3 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Spencer Boland</td>
+                    <td>Alec Taylor</td>
                 </tr>
                 <tr>
-                    <td>Anu Devadasan</td>
+                    <td>Renny Soto</td>
                 </tr>
             </table>
 
@@ -83,10 +83,10 @@
                     <th>Table 3 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Arjun Vijayan</td>
+                    <td>Justine Moreno</td>
                 </tr>
                 <tr>
-                    <td>Jack Kallenberger</td>
+                    <td>Chris Arnold</td>
                 </tr>
             </table>
 
@@ -99,10 +99,10 @@
                     <th> Table 4 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Jordyn Eskijian</td>
+                    <td>Teegan Swanson</td>
                 </tr>
                 <tr>
-                    <td>Brooke Lawver</td>
+                    <td>Demetrius Smiley</td>
                 </tr>
             </table>
 
@@ -114,10 +114,10 @@
                     <th>Table 4 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Andrew Pierson</td>
+                    <td>Sheila Al Shatti</td>
                 </tr>
                 <tr>
-                    <td>Scarlett Davis</td>
+                    <td>Brooke Lawver</td>
                 </tr>
             </table>
 
@@ -130,10 +130,10 @@
                     <th> Table 5 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Eric Scali</td>
+                    <td>Ashley Block</td>
                 </tr>
                 <tr>
-                    <td>Justine Moreno</td>
+                    <td>Spencer Boland</td>
                 </tr>
             </table>
 
@@ -145,10 +145,10 @@
                     <th>Table 5 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Alfred Tuwei</td>
+                    <td>Lucia Roith</td>
                 </tr>
                 <tr>
-                    <td>Ashley Block</td>
+                    <td>Eric Scali</td>
                 </tr>
             </table>
 
@@ -161,7 +161,7 @@
                     <th> Table 6 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Lisa Groener</td>
+                    <td>Kristy Maldonado</td>
                 </tr>
                 <tr>
                     <td>Jana Meyers</td>
@@ -176,10 +176,10 @@
                     <th>Table 6 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Samuel Gonzalez</td>
+                    <td>Mallory Norris</td>
                 </tr>
                 <tr>
-                    <td>Teiaira White</td>
+                    <td>Rakesh Kodela</td>
                 </tr>
             </table>
 
@@ -192,10 +192,10 @@
                     <th> Table 7 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Jenny Lucas</td>
+                    <td>Andrew Pierson</td>
                 </tr>
                 <tr>
-                    <td>Kim Polangco</td>
+                    <td>Jack Kallenberger</td>
                 </tr>
             </table>
 
@@ -207,10 +207,10 @@
                     <th>Table 7 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Demetrius Smiley</td>
+                    <td>Samuel Gonzalez</td>
                 </tr>
                 <tr>
-                    <td>Vidya Elizabeth Jose</td>
+                    <td>Kim Polangco</td>
                 </tr>
             </table>
 
@@ -223,10 +223,10 @@
                     <th> Table 8 - Group 1</th>
                 </tr>
                 <tr>
-                    <td>Billy Mitchell</td>
+                    <td>Anu Devadasan</td>
                 </tr>
                 <tr>
-                    <td>Matt Gaebler</td>
+                    <td>Alfred Tuwei</td>
                 </tr>
             </table>
 
@@ -238,10 +238,41 @@
                     <th>Table 8 - Group 2</th>
                 </tr>
                 <tr>
-                    <td>Chris Arnold</td>
+                    <td>Chapin Walton</td>
                 </tr>
                 <tr>
-                    <td>Chapin Walton</td>
+                    <td>Teiaira White</td>
+                </tr>
+            </table>
+
+            <div>&nbsp;</div>
+            
+
+            <table>
+                <thead>
+                <tr>
+                    <th> Table 9 - Group 1</th>
+                </tr>
+                <tr>
+                    <td>Arjun Vijayan</td>
+                </tr>
+                <tr>
+                    <td>Billy Mitchell</td>
+                </tr>
+            </table>
+
+            <div>&nbsp;</div>
+
+            <table>
+                <thead>
+                <tr>
+                    <th>Table 9 - Group 2</th>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
                 </tr>
             </table>
 
